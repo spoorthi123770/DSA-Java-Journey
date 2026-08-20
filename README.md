@@ -6,6 +6,7 @@ My journey of learning Data structures and Algorithms using Java
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ My journey of learning Data structures and Algorithms using Java
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -27,4 +29,16 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
