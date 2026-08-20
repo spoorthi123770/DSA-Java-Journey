@@ -9,6 +9,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0053-maximum-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
 | ------- |
@@ -47,4 +49,8 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
