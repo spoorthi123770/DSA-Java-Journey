@@ -6,6 +6,7 @@ My journey of learning Data structures and Algorithms using Java
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
 ## Hash Table
@@ -15,6 +16,7 @@ My journey of learning Data structures and Algorithms using Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -41,4 +43,8 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
