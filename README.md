@@ -7,6 +7,7 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
@@ -60,5 +61,10 @@ My journey of learning Data structures and Algorithms using Java
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
