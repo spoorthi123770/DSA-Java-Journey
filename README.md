@@ -13,12 +13,14 @@ My journey of learning Data structures and Algorithms using Java
 | [0073-set-matrix-zeroes](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,4 +72,8 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
