@@ -19,6 +19,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0118-pascals-triangle](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -33,6 +34,7 @@ My journey of learning Data structures and Algorithms using Java
 | ------- |
 | [0053-maximum-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -95,4 +97,28 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
