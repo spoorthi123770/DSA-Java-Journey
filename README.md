@@ -9,6 +9,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0015-3sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0053-maximum-subarray) |
@@ -104,6 +105,7 @@ My journey of learning Data structures and Algorithms using Java
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0704-binary-search) |
