@@ -81,6 +81,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0031-next-permutation](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
@@ -176,6 +177,7 @@ My journey of learning Data structures and Algorithms using Java
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
