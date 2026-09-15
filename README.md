@@ -93,6 +93,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0075-sort-colors](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
@@ -181,6 +182,7 @@ My journey of learning Data structures and Algorithms using Java
 | ------- |
 | [0206-reverse-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
