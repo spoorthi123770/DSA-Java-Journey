@@ -47,6 +47,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0073-set-matrix-zeroes](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0229-majority-element-ii) |
@@ -98,6 +99,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0141-linked-list-cycle](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -189,6 +191,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0019-remove-nth-node-from-end-of-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0237-delete-node-in-a-linked-list) |
