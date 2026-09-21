@@ -189,6 +189,7 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -200,6 +201,7 @@ My journey of learning Data structures and Algorithms using Java
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0234-palindrome-linked-list) |
 ## Greedy
