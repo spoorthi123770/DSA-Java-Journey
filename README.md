@@ -45,6 +45,7 @@ My journey of learning Data structures and Algorithms using Java
 | ------- |
 | [0013-roman-to-integer](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -192,6 +193,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0019-remove-nth-node-from-end-of-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0160-intersection-of-two-linked-lists) |
