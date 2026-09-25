@@ -143,6 +143,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0048-rotate-image](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -210,6 +211,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0050-powx-n](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
