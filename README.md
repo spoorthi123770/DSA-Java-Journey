@@ -12,6 +12,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0031-next-permutation](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0054-spiral-matrix) |
@@ -279,6 +280,7 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
