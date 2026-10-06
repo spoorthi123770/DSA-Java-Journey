@@ -15,6 +15,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0039-combination-sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0056-merge-intervals) |
@@ -292,6 +293,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0022-generate-parentheses](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0090-subsets-ii) |
@@ -305,4 +307,8 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0079-word-search](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
