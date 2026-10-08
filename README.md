@@ -156,6 +156,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0013-roman-to-integer](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
@@ -245,6 +246,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0151-reverse-words-in-a-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0940-distinct-subsequences-ii) |
@@ -302,6 +304,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0079-word-search](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
