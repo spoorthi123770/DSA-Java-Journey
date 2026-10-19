@@ -212,6 +212,7 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0138-copy-list-with-random-pointer) |
@@ -226,6 +227,7 @@ My journey of learning Data structures and Algorithms using Java
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0206-reverse-linked-list) |
