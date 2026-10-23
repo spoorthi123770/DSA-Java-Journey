@@ -264,6 +264,7 @@ My journey of learning Data structures and Algorithms using Java
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0234-palindrome-linked-list) |
@@ -358,6 +359,7 @@ My journey of learning Data structures and Algorithms using Java
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
