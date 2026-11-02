@@ -44,6 +44,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0540-single-element-in-a-sorted-array](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -145,6 +146,7 @@ My journey of learning Data structures and Algorithms using Java
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -277,6 +279,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0234-palindrome-linked-list](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
