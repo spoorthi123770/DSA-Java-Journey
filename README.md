@@ -51,6 +51,7 @@ My journey of learning Data structures and Algorithms using Java
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -282,6 +283,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0735-asteroid-collision](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -385,4 +387,5 @@ My journey of learning Data structures and Algorithms using Java
 | [0042-trapping-rain-water](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
