@@ -79,6 +79,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0560-subarray-sum-equals-k](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
@@ -283,6 +284,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0796-rotate-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1903-largest-odd-number-in-string) |
@@ -418,5 +420,6 @@ My journey of learning Data structures and Algorithms using Java
 | [0930-binary-subarrays-with-sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
