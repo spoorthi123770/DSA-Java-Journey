@@ -43,6 +43,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0229-majority-element-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0503-next-greater-element-ii) |
@@ -107,6 +108,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0215-kth-largest-element-in-an-array](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
@@ -162,6 +164,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0131-palindrome-partitioning](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
 |  |
@@ -276,6 +279,7 @@ My journey of learning Data structures and Algorithms using Java
 | [0045-jump-game-ii](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/0435-non-overlapping-intervals) |
 | [1903-largest-odd-number-in-string](https://github.com/spoorthi123770/DSA-Java-Journey/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
